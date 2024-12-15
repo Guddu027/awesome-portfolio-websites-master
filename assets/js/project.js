@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Wheather site",
-    cardImage: "https://guddu027.github.io/internproject/index.html/images/balloon.png",
+    cardImage: "https://guddu027.github.io/internproject/index.html/images/light_mode.png",
     description: "A wheather site create using HTML and CSS.",
     tagimg: "https://guddu027.github.io/WheatherApp/images/balloon.png",
     Previewlink: "https://guddu027.github.io/WheatherApp/",
