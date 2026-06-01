@@ -6,11 +6,11 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Wheather site",
+    title: "College Website",
     cardImage: "https://guddu027.github.io/internproject/index.html/images/light_mode.png",
-    description: "A wheather site create using HTML and CSS.",
+    description: "College site create using HTML and CSS.",
     tagimg: "https://guddu027.github.io/WheatherApp/images/balloon.png",
-    Previewlink: "https://guddu027.github.io/WheatherApp/",
+    Previewlink: "https://guddu027.github.io/internproject/",
     Githublink: "https://guddu027.github.io/internproject/index.html",
   }
 ];
