@@ -9,8 +9,8 @@ const projects = [
     title: "College Website",
     cardImage: "https://guddu027.github.io/internproject/index.html/images/light_mode.png",
     description: "College site create using HTML and CSS.",
-    tagimg: "https://guddu027.github.io/WheatherApp/images/balloon.png",
-    Previewlink: "https://guddu027.github.io/internproject/",
+    tagimg: "https://guddu027.github.io/awesome-portfolio-websites-master/images/travel/favicon.png",
+    Previewlink: "https://guddu027.github.io/internproject/index.html",
     Githublink: "https://guddu027.github.io/internproject/index.html",
   }
 ];
